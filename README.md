@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently a wordpress developer
-- 🌱 I’m currently learning React and Node
+- 🔭 I’m currently developing with React & Node
 
 <!--
 **sampauldean/sampauldean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
